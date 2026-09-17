@@ -1,0 +1,39 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Matheus Baron Lauritzen - Portfólio",
+  "navHome": "Início",
+  "navAbout": "Sobre Mim",
+  "navSkills": "Tecnologias",
+  "navProjects": "Projetos",
+  "navContact": "Contato",
+  "heroGreeting": "Olá, eu sou {name}",
+  "@heroGreeting": {
+    "placeholders": {
+      "name": { "type": "String" }
+    }
+  },
+  "heroTagline": "Desenvolvedor Full Stack apaixonado por criar experiências digitais incríveis.",
+  "aboutText": "Atualmente, estou cursando uma graduação em Ciência da Computação na Universidade do Vale do Itajaí (UNIVALI), após me formar em Análise e Desenvolvimento de Sistemas pelo SENAI em Brusque, Santa Catarina, Brasil. Sou um desenvolvedor full stack com experiência em diversas tecnologias. Tenho paixão por transformar ideias em interfaces de usuário bonitas e funcionais, e por construir sistemas robustos e escaláveis. Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades para entregar soluções de alta qualidade.",
+  "projectsAccessButton": "Acessar",
+  "projectSpringBootTitle": "Backend Spring Boot",
+  "projectSpringBootDescription": "Esse projeto tem como objetivo desenvolver o backend de uma aplicação web usando Spring Boot Java, com o intuito de praticar e aprimorar habilidades em desenvolvimento backend.",
+  "projectScroogeTitle": "Scrooge App",
+  "projectScroogeDescription": "Projeto relacionado ao desenvolvimento do WebApp Scrooge, um aplicativo para auxiliar a vida financeira do usuário. O WPA tem como objetivo ajudar o usuário a controlar suas finanças de forma simples e eficiente, além de possuir uma seção de educação financeira.",
+  "projectImageProcessingTitle": "Processamento de Imagens",
+  "projectImageProcessingDescription": "O exercício consiste em comparar filtros no Domínio Espacial e no Domínio da Frequência usando a linguagem Python. Foi utilizada a biblioteca OpenCV para manipulação de imagens e a biblioteca NumPy para operações matemáticas, além de outras bibliotecas para processamento de imagens.",
+  "contactSubtitle": "Interessado em trabalhar comigo? Entre em contato!",
+  "tooltipLinkedin": "LinkedIn",
+  "tooltipGithub": "GitHub",
+  "tooltipEmail": "E-mail",
+  "footerRights": "© {year} {name}. Todos os direitos reservados.",
+  "@footerRights": {
+    "placeholders": {
+      "year": { "type": "int" },
+      "name": { "type": "String" }
+    }
+  },
+  "themeToggleToLight": "Ativar tema claro",
+  "themeToggleToDark": "Ativar tema escuro",
+  "languageTogglePt": "Mudar para português (Brasil)",
+  "languageToggleEn": "Mudar para inglês (EUA)"
+}
