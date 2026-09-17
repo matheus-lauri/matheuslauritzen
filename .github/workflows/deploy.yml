@@ -32,7 +32,7 @@ jobs:
         run: flutter analyze
 
       - name: Build web
-        run: flutter build web --release --base-href /site_pessoal_flutter/
+        run: flutter build web --release --base-href /matheuslauritzen/
 
       - name: Deploy to gh-pages
         uses: peaceiris/actions-gh-pages@v4
