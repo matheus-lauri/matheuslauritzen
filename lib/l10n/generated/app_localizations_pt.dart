@@ -43,11 +43,11 @@ class AppLocalizationsPt extends AppLocalizations {
   String get projectsAccessButton => 'Acessar';
 
   @override
-  String get projectSpringBootTitle => 'Backend Spring Boot';
+  String get projectPdfToolkitTitle => 'PDF Toolkit';
 
   @override
-  String get projectSpringBootDescription =>
-      'Esse projeto tem como objetivo desenvolver o backend de uma aplicação web usando Spring Boot Java, com o intuito de praticar e aprimorar habilidades em desenvolvimento backend.';
+  String get projectPdfToolkitDescription =>
+      'Aplicação web para manipulação de PDFs, sem necessidade de autenticação ou armazenamento externo, com todo o processamento feito em memória. Permite unir até 20 PDFs, extrair intervalos de páginas e aplicar marcas d\'água em texto. Backend em C# / ASP.NET Core 8 com Clean Architecture e PdfSharpCore, frontend em React com TypeScript e Vite.';
 
   @override
   String get projectScroogeTitle => 'Scrooge App';

@@ -158,17 +158,17 @@ abstract class AppLocalizations {
   /// **'Acessar'**
   String get projectsAccessButton;
 
-  /// No description provided for @projectSpringBootTitle.
+  /// No description provided for @projectPdfToolkitTitle.
   ///
   /// In pt, this message translates to:
-  /// **'Backend Spring Boot'**
-  String get projectSpringBootTitle;
+  /// **'PDF Toolkit'**
+  String get projectPdfToolkitTitle;
 
-  /// No description provided for @projectSpringBootDescription.
+  /// No description provided for @projectPdfToolkitDescription.
   ///
   /// In pt, this message translates to:
-  /// **'Esse projeto tem como objetivo desenvolver o backend de uma aplicação web usando Spring Boot Java, com o intuito de praticar e aprimorar habilidades em desenvolvimento backend.'**
-  String get projectSpringBootDescription;
+  /// **'Aplicação web para manipulação de PDFs, sem necessidade de autenticação ou armazenamento externo, com todo o processamento feito em memória. Permite unir até 20 PDFs, extrair intervalos de páginas e aplicar marcas d'água em texto. Backend em C# / ASP.NET Core 8 com Clean Architecture e PdfSharpCore, frontend em React com TypeScript e Vite.'**
+  String get projectPdfToolkitDescription;
 
   /// No description provided for @projectScroogeTitle.
   ///

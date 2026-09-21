@@ -16,9 +16,9 @@ class ProjectsSection extends StatelessWidget {
 
     final projects = [
       Project(
-        title: l10n.projectSpringBootTitle,
-        description: l10n.projectSpringBootDescription,
-        url: PortfolioData.springBootProjectUrl,
+        title: l10n.projectPdfToolkitTitle,
+        description: l10n.projectPdfToolkitDescription,
+        url: PortfolioData.pdfToolkitProjectUrl,
       ),
       Project(
         title: l10n.projectScroogeTitle,
