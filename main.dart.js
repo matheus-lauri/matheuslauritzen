@@ -37484,10 +37484,10 @@ MJ(a){return"Hi, I'm "+a},
 gMK(){return"Full Stack Developer passionate about building amazing digital experiences."},
 gKd(){return"I'm currently pursuing a degree in Computer Science at Universidade do Vale do Itaja\xed (UNIVALI), after graduating in Systems Analysis and Development from SENAI in Brusque, Santa Catarina, Brazil. I'm a full stack developer with experience in a wide range of technologies such as HTML, CSS, JavaScript, PHP, React, Java, .NET (C#), Kotlin, React Native, C++, Python, Assembly, and Flutter. I'm passionate about turning ideas into beautiful, functional user interfaces, and about building robust, scalable systems. I'm always looking to learn new technologies and sharpen my skills to deliver high-quality solutions."},
 gO3(){return"View"},
-gO2(){return"Spring Boot Backend"},
-gO1(){return"This project's goal is to build the backend of a web application using Java Spring Boot, in order to practice and improve backend development skills."},
-gO0(){return"Scrooge App"},
-gO_(){return"Project related to the development of the Scrooge WebApp, an application to help manage the user's personal finances. The PWA aims to help users control their finances in a simple and efficient way, and also includes a financial education section."},
+gO0(){return"PDF Toolkit"},
+gO_(){return"A web application for PDF manipulation with no authentication or external storage required, all processing happens in memory. Supports merging up to 20 PDFs, extracting page ranges, and applying text watermarks. Backend built with C# / ASP.NET Core 8 using Clean Architecture and PdfSharpCore, frontend with React, TypeScript and Vite."},
+gO2(){return"Scrooge App"},
+gO1(){return"Project related to the development of the Scrooge WebApp, an application to help manage the user's personal finances. The PWA aims to help users control their finances in a simple and efficient way, and also includes a financial education section."},
 gNZ(){return"Image Processing"},
 gNY(){return"This exercise compares filters in the Spatial Domain and the Frequency Domain using Python. The OpenCV library was used for image manipulation and NumPy for mathematical operations, along with other image processing libraries."},
 gL_(){return"Interested in working together? Get in touch!"},
@@ -37510,10 +37510,10 @@ MJ(a){return"Ol\xe1, eu sou "+a},
 gMK(){return"Desenvolvedor Full Stack apaixonado por criar experi\xeancias digitais incr\xedveis."},
 gKd(){return"Atualmente, estou cursando uma gradua\xe7\xe3o em Ci\xeancia da Computa\xe7\xe3o na Universidade do Vale do Itaja\xed (UNIVALI), ap\xf3s me formar em An\xe1lise e Desenvolvimento de Sistemas pelo SENAI em Brusque, Santa Catarina, Brasil. Sou um desenvolvedor full stack com experi\xeancia em diversas tecnologias. Tenho paix\xe3o por transformar ideias em interfaces de usu\xe1rio bonitas e funcionais, e por construir sistemas robustos e escal\xe1veis. Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades para entregar solu\xe7\xf5es de alta qualidade."},
 gO3(){return"Acessar"},
-gO2(){return"Backend Spring Boot"},
-gO1(){return"Esse projeto tem como objetivo desenvolver o backend de uma aplica\xe7\xe3o web usando Spring Boot Java, com o intuito de praticar e aprimorar habilidades em desenvolvimento backend."},
-gO0(){return"Scrooge App"},
-gO_(){return"Projeto relacionado ao desenvolvimento do WebApp Scrooge, um aplicativo para auxiliar a vida financeira do usu\xe1rio. O WPA tem como objetivo ajudar o usu\xe1rio a controlar suas finan\xe7as de forma simples e eficiente, al\xe9m de possuir uma se\xe7\xe3o de educa\xe7\xe3o financeira."},
+gO0(){return"PDF Toolkit"},
+gO_(){return"Aplica\xe7\xe3o web para manipula\xe7\xe3o de PDFs, sem necessidade de autentica\xe7\xe3o ou armazenamento externo, com todo o processamento feito em mem\xf3ria. Permite unir at\xe9 20 PDFs, extrair intervalos de p\xe1ginas e aplicar marcas d'\xe1gua em texto. Backend em C# / ASP.NET Core 8 com Clean Architecture e PdfSharpCore, frontend em React com TypeScript e Vite."},
+gO2(){return"Scrooge App"},
+gO1(){return"Projeto relacionado ao desenvolvimento do WebApp Scrooge, um aplicativo para auxiliar a vida financeira do usu\xe1rio. O WPA tem como objetivo ajudar o usu\xe1rio a controlar suas finan\xe7as de forma simples e eficiente, al\xe9m de possuir uma se\xe7\xe3o de educa\xe7\xe3o financeira."},
 gNZ(){return"Processamento de Imagens"},
 gNY(){return"O exerc\xedcio consiste em comparar filtros no Dom\xednio Espacial e no Dom\xednio da Frequ\xeancia usando a linguagem Python. Foi utilizada a biblioteca OpenCV para manipula\xe7\xe3o de imagens e a biblioteca NumPy para opera\xe7\xf5es matem\xe1ticas, al\xe9m de outras bibliotecas para processamento de imagens."},
 gL_(){return"Interessado em trabalhar comigo? Entre em contato!"},
@@ -37703,7 +37703,7 @@ e=A.eM(h,s?40:0,e)
 l=s?0:2
 return A.ix(B.X,A.ayF(A.d([m,e,A.Z0(new A.ux(s?200:380,h),l)],i),n,o,h,B.eA,B.aI,0,h,h,B.dF),f.k2,h,r,h,h,new A.bh(q,p,q,p),h)}}
 A.Jw.prototype={
-J(a){var s=null,r=A.a_(a),q=A.a_(a).ax,p=A.eb(a,B.bV,t.k),o=A.d([new A.iV(p.gO2(),p.gO1(),"https://github.com/matheus-lauri/ProjetoGameListJava"),new A.iV(p.gO0(),p.gO_(),"https://github.com/matheus-lauri/ScroogeApp"),new A.iV(p.gNZ(),p.gNY(),"https://github.com/matheus-lauri/exercicioM2PDI")],t.th),n=q.p3
+J(a){var s=null,r=A.a_(a),q=A.a_(a).ax,p=A.eb(a,B.bV,t.k),o=A.d([new A.iV(p.gO0(),p.gO_(),"https://github.com/matheus-lauri/pdf-toolkit"),new A.iV(p.gO2(),p.gO1(),"https://github.com/matheus-lauri/ScroogeApp"),new A.iV(p.gNZ(),p.gNY(),"https://github.com/matheus-lauri/exercicioM2PDI")],t.th),n=q.p3
 if(n==null)n=q.k2
 p=p.gBH()
 r=r.ok.c
